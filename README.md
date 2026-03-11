@@ -39,7 +39,8 @@ To increase the overall Net Profit Margin by 15% within the next fiscal year by 
 * **VSCode**: Used as the primary Integrated Development Environment (IDE) for code authorship, testing, and management..
 
 ## Project Output 
-Power BI :
+Power BI : https://github.com/goetzel11/Global-Beauty-E-Commerce-Strategic-Analysis-2020-2023-/blob/main/Global%20E%20commerce%20Dashboard.pbix
+(Should be Downloaded first)
 
 ## Data Reference
 https://www.kaggle.com/datasets/shandeep777/e-commerce-analysis-global-skincare-e-store
